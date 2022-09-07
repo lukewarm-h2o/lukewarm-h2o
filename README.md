@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukewarm-h2o
 - 👀 I’m interested in microcontrollers and additive manufacturing
-- 🌱 I’m currently learning c++ and pyhton
+- 🌱 I’m currently strengthening my C++ and trying to forget python
 
 <!---
 lukewarm-h2o/lukewarm-h2o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
